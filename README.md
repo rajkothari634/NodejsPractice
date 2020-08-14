@@ -1,2 +1,2 @@
 # NodejsPractice
-practice for nodejs
+a complete MERN Project with Reddis Implemented and advance features of Node.js
